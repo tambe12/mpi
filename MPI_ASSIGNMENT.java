@@ -61,8 +61,7 @@ public class MPI_ASSIGNMENT {
 //ls $MPJ_HOME/bin
 //
 //$MPJ_HOME/bin/mpjrun.sh -np 4 ds_4.MPI_ASSIGNMENT
-//
-//run below comand from bin folder where ds_4.MPI_ASSIGNMENT is present
+//or 
 ///mnt/c/Users/dumbr/Downloads/mpj-v0_44/mpj-v0_44/bin/mpjrun.sh -np 4 ds_4.MPI_ASSIGNMENT
 /// 
 /// Make sure you are inside the /bin folder, not inside the src
